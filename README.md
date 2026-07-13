@@ -47,7 +47,7 @@ Coming Soon...
 
 ---
 
-Thanks for visiting my portfolio!
+
 ## Practical Exercises Completed
 
 ### Vehicle Detection Challenge
@@ -61,3 +61,4 @@ Skills practiced:
 
 Result:
 Completed with 100% accuracy during QA review.
+Thanks for visiting my portfolio!
