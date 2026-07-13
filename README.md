@@ -60,6 +60,6 @@ Skills practiced:
 - Label verification
 
 Result:
-Result:
 Completed successfully during a simulated QA review exercise.
+
 Thanks for visiting my portfolio!
