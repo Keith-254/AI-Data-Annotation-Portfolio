@@ -48,3 +48,16 @@ Coming Soon...
 ---
 
 Thanks for visiting my portfolio!
+## Practical Exercises Completed
+
+### Vehicle Detection Challenge
+
+Skills practiced:
+- Object identification
+- Class filtering
+- Separate instance annotation
+- Occlusion handling
+- Label verification
+
+Result:
+Completed with 100% accuracy during QA review.
